@@ -5,7 +5,7 @@
 * [Description of Operation](#description-of-operation)
 * [Schematics](#schematics)
 * [Picture](#picture)
-** [Prototype](#prototype)
+    * [Prototype](#prototype)
 * [Test Setup](#test-setup)
 * [Test Procedure](#test-procedure)
 * [Test Result](#test-result)
