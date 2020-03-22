@@ -14,7 +14,7 @@ The FET mixes the BFSK modulated signal and the CW signal to create the BFSK-AM 
 The BFSK-AM CW signal is re-radiated by the antenna.
 
 # Schematics
-** Placeholder **
+![Schematics](./Schematics.gif)
 
 ```
 R1, R2: Voltage divider
@@ -25,10 +25,10 @@ B1: RF GaAs FET
 
 # Picture
 ## Prototype
-** Placeholder **
+![Prototype](./Prototype.png)
 
 # Test Setup
-** Placeholder **
+![Test Setup](./Setup.gif)
 
 # Test Procedure
 1. Connect the battery to the test unit.
@@ -37,9 +37,8 @@ B1: RF GaAs FET
 4. Capture the re-radiated signal.
 
 # Test Result
-** Placeholder **
-
-** Placeholder **
+![Spectrum](./Spectrum.png)
+[AM demodulated sound](./Sound.wav)
 
 # References
 [TAWDRYYARD ANT Product Data](https://upload.wikimedia.org/wikipedia/commons/8/8f/NSA_TAWDRYYARD.jpg) [(Web Archive)](https://web.archive.org/web/20190422182852/https://upload.wikimedia.org/wikipedia/commons/8/8f/NSA_TAWDRYYARD.jpg)
